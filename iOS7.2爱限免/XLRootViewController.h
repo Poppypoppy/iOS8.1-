@@ -21,6 +21,9 @@
     BOOL isRefreshing;
     //上拉加载
     BOOL isLoading;
+    
+    
+    
 }
 //刷新加载视图
 -(void)refreshAndLoding:(NSString *)path;
