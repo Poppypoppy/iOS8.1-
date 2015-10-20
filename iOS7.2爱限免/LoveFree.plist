@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>one</key>
+	<dict>
+		<key>selectedImage</key>
+		<string>tabbar_limitfree_press.png</string>
+		<key>titleName</key>
+		<string>限免</string>
+		<key>imageName</key>
+		<string>tabbar_limitfree.png</string>
+		<key>controllerName</key>
+		<string>XLLimitViewController</string>
+	</dict>
+	<key>two</key>
+	<dict>
+		<key>selectedImage</key>
+		<string>tabbar_reduceprice_press.png</string>
+		<key>titleName</key>
+		<string>降价</string>
+		<key>imageName</key>
+		<string>tabbar_reduceprice.png</string>
+		<key>controllerName</key>
+		<string>XLReduceViewController</string>
+	</dict>
+	<key>three</key>
+	<dict>
+		<key>selectedImage</key>
+		<string>tabbar_appfree_press.png</string>
+		<key>titleName</key>
+		<string>免费</string>
+		<key>imageName</key>
+		<string>tabbar_appfree.png</string>
+		<key>controllerName</key>
+		<string>XLFreeViewController</string>
+	</dict>
+	<key>four</key>
+	<dict>
+		<key>selectedImage</key>
+		<string>tabbar_subject_press.png</string>
+		<key>titleName</key>
+		<string>专题</string>
+		<key>imageName</key>
+		<string>tabbar_subject.png</string>
+		<key>controllerName</key>
+		<string>XLTopicViewController</string>
+	</dict>
+	<key>five</key>
+	<dict>
+		<key>selectedImage</key>
+		<string>tabbar_rank_press.png</string>
+		<key>controllerName</key>
+		<string>XLHotViewController</string>
+		<key>imageName</key>
+		<string>tabbar_rank.png</string>
+		<key>titleName</key>
+		<string>热榜</string>
+	</dict>
+</dict>
+</plist>
