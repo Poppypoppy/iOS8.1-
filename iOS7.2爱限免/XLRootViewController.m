@@ -31,6 +31,8 @@
 {
     [super viewDidLoad];
     //<1>为导航条添加按钮
+    
+    NSLog(@"新的更新");
     NSArray * arr = @[@"分类",@"设置"];
     for(int i = 0;i<2;i++)
     {
